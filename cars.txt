@@ -1,4 +1,3 @@
 bmw
 tesla
 ford
-tata
